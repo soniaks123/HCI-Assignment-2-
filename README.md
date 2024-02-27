@@ -15,7 +15,7 @@ The Figma design file can be accessed [here](https://www.figma.com/file/IPa022PP
 
 ## Video Demonstration
 
-Check out our video demonstration [here](insert_video_url).
+Check out our video demonstration [here](https://sheridanc-my.sharepoint.com/personal/soniaks_shernet_sheridancollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsoniaks%5Fshernet%5Fsheridancollege%5Fca%2FDocuments%2FHCI%28Assignment%2D2RECORDING%29%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview).
 
 ## New Desirable Functionalities
 
